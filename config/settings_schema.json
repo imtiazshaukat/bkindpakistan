@@ -111,7 +111,7 @@
       {
         "type": "font_picker",
         "id": "type_header_font",
-        "default": "poppins_n5",
+        "default": "sans-serif",
         "label": "t:settings_schema.typography.settings.type_header_font.label"
       },
       {
